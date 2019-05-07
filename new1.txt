@@ -1,4 +1,1 @@
-vsdvdsvacdvfdssfsf
-ahfhgshyufdgds
-vhsduhgui
-gsdahsdg
+print("hello")
